@@ -12,24 +12,23 @@
 
 ## 代码仓库链接
 
-[3033009572/blockchain-in-js-workshop-2021-lesson1 (github.com)](https://github.com/3033009572/blockchain-in-js-workshop-2021-lesson1)
+[3033009572/blockchain (github.com)](https://github.com/3033009572/blockchain)
 
 ## 第一课代码
 
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
 
-
-### 代码截图
+### [blockchain/blockchain-in-js-workshop-2021-lesson1 at main · 3033009572/blockchain · GitHub](https://github.com/3033009572/blockchain/tree/main/blockchain-in-js-workshop-2021-lesson1)代码截图
 
 > 将截图上传至网盘，放入链接即可
 
 ![](链接)
 
-
 ### 主观与讨论题内容
+
+
 
 ---
 
@@ -59,7 +58,7 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+[blockchain/blockchain-in-js-workshop-2021-lesson2 at main · 3033009572/blockchain · GitHub](https://github.com/3033009572/blockchain/tree/main/blockchain-in-js-workshop-2021-lesson2)
 
 
 ### 代码截图
@@ -71,7 +70,23 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 ### 主观与讨论题内容
 
+PoW（Proof of Work）挖矿的特点如下：
 
+优势：
+1. 安全性高：PoW需要参与者完成一定的计算难题才能获得奖励，这种计算难题需要消耗大量的计算资源，在一定程度上降低了攻击者攻击网络的概率，保障了区块链网络的安全性；
+2. 公平性强：在PoW挖矿中，参与者完成计算难题的概率是随机的，没有参与者能够很容易地获得奖励，从而保证了公平性；
+3. 去中心化：PoW挖矿中，任何人都可以参与挖矿，因此矿工分布广泛，相对去中心化程度高。
+
+缺点：
+1. 能源浪费：PoW挖矿需要解密的计算难题相当于一种竞赛，需要消耗大量的计算资源，需要高昂的电费来维持，因此，很多人认为它是一种浪费能源的方式；
+2. 高门槛：由于PoW挖矿需要特殊的硬件设备和大量的电费支持，因此门槛较高，不利于个人参与；
+3. 不利于网络扩展：由于PoW算法的缺陷，可以导致随着时间推移，矿工按照从低到高的难度顺序逐渐填满区块。这将占用区块的一部分空间。如果需要解决这个占用问题，很可能会伴随着网络扩展失败的风险。
+
+为了提高挖矿的效率，可以采用以下技术手段：
+1. 提升硬件性能：通过更快的CPU、更优的算法、更高效的显卡或asics来提高计算速度，提高挖矿效率；
+2. 降低挖矿难度：通过减少计算难度、缩短挖矿时间、增加挖矿奖励等方式来提高挖矿效率；
+3. 利用节能技术：例如利用太阳能、水能等清洁能源来供电，降低能源浪费；
+4. 使用新的共识机制：例如PoS（Proof of Stake）和DPoS（Delegated Proof of Stake）等，这些机制可以减少计算难度和能源浪费，提高效率。
 
 ---
 
@@ -81,7 +96,7 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+[blockchain/blockchain-in-js-workshop-2021-lesson3/blockchain-in-js-workshop-2021-lesson3 at main · 3033009572/blockchain (github.com)](https://github.com/3033009572/blockchain/tree/main/blockchain-in-js-workshop-2021-lesson3/blockchain-in-js-workshop-2021-lesson3)
 
 
 ### 代码截图
@@ -105,7 +120,7 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+[blockchain/blockchain-in-js-workshop-2021-lesson4/blockchain-in-js-workshop-2021-lesson4 at main · 3033009572/blockchain (github.com)](https://github.com/3033009572/blockchain/tree/main/blockchain-in-js-workshop-2021-lesson4/blockchain-in-js-workshop-2021-lesson4)
 
 
 ### 代码截图
@@ -129,7 +144,7 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+[blockchain/blockchain-in-js-workshop-2021-lesson5/blockchain-in-js-workshop-2021-lesson5 at main · 3033009572/blockchain (github.com)](https://github.com/3033009572/blockchain/tree/main/blockchain-in-js-workshop-2021-lesson5/blockchain-in-js-workshop-2021-lesson5)
 
 
 ### 代码截图
@@ -140,6 +155,16 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 
 ### 主观与讨论题内容
+
+比特币交易处理的极限主要受到以下因素的影响：
+
+1. 区块大小限制：比特币网络规定区块最大大小为1MB，每个区块中可以包含的交易数量也受到限制，因此，网络只能处理有限数量的交易；
+2. 挖矿难度：比特币的挖矿难度随着时间的推移逐渐升高，这导致矿工需要使用更多的算力才能获得比特币奖励，在同样的时间内处理的交易量也会受到限制；
+3. 交易费用：一般来说，比特币交易需要支付一定的手续费才能被矿工所确认，如果手续费过低，矿工将优先确认手续费更高的交易，这会导致一些交易在网络中得不到确认。
+
+因此，比特币交易处理的极限取决于这三个因素的相互影响。如果交易数量过多，网络的负载会过大，导致交易处理时间变长，手续费的竞争也会更加激烈。如果继续增加区块大小，可能会导致区块传输延迟增加、网络中的节点选择性分化、数据处理难度增加以及节点数量的减少等问题。此外，如果挖矿难度过高，交易处理时间会变得更加缓慢，而如果挖矿难度过低，则可能导致安全性降低。
+
+比特币的区块大小和挖矿难度是有关系的。如果区块大小过小，矿工们将没有足够的空间将所有交易打入同一区块，从而导致一些交易得不到确认。因此，增加区块大小可以提高网络容量和交易吞吐量。但是随着区块大小的增加，挖矿难度也会相应增加，因为更大的区块需要更多的计算资源来进行验证和处理，而挖矿难度的增加会限制矿工确认交易数量的速度，一定程度上抵消了增加区块大小带来的好处。
 
 
 
@@ -153,7 +178,7 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+[blockchain/blockchain-in-js-workshop-2021-lesson6/blockchain-in-js-workshop-2021-lesson6 at main · 3033009572/blockchain (github.com)](https://github.com/3033009572/blockchain/tree/main/blockchain-in-js-workshop-2021-lesson6/blockchain-in-js-workshop-2021-lesson6)
 
 
 ### 代码截图
@@ -164,6 +189,91 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 
 ### 主观与讨论题内容
+
+交易费用是在比特币网络中确认和处理交易所需要支付的费用，本质上体现了交易的优先级。目前，交易费用由发起交易的人自己决定，并根据包含的数据大小、使用的矿工费等因素来计算。
+
+对于什么样的交易费用是合理的，这个问题不好一概而论，因为它取决于市场供求和交易急迫程度。一般来说，如果比特币网络中交易过多，交易费用就会相应升高。如果交易量较少，交易费用就会相应降低。此外，随着挖矿难度和比特币价格的变化，交易费用也会发生变化。
+
+如果去掉交易费用，比特币网络会发生以下问题：
+
+1. 恶意交易：没有交易费用，攻击者可以轻易地创建很多低价值的交易，并将网络拥堵，使得其他用户的交易无法顺利确认；
+2. 交易延迟：由于没有交易费用，矿工没有足够的动力去优先处理某些交易，从而导致交易延迟；
+3. 安全性降低：没有交易费用，矿工的奖励也会受到影响，这可能导致矿工转而攻击网络，从而降低比特币网络的整体安全性。
+
+因此，交易费用是比特币网络中非常重要的一部分，没有交易费用会严重破坏整个比特币网络的安全性、可靠性和稳定性。
+
+
+
+## 实现 merkle 树
+
+
+### 代码 commint 地址
+https://github.com/3033009572/blockchain/tree/main/other
+
+### 主观与讨论题内容
+
+
+
+
+
+
+## 实现字典树
+
+
+### 代码 commint 地址
+https://github.com/3033009572/blockchain/tree/main/other
+
+### 主观与讨论题内容
+
+如果将例子中的字母扩展成字母和数字的形式，可以考虑添加一个层级，以表示数字是字母的子节点。例如，输入序列为["abc", "ab1", "ab2", "ac", "acd", "acz"], 那么可以设计字典树如下：
+
+  root
+
+​     |
+
+​	a
+
+  / / \ \
+ b  c  d  z
+ /\   / \
+1   2  c   []
+      |
+      d 
+      |
+      []
+
+其中，每个节点都代表一个字符或数字，首先插入a,接下来插入b, c, d, z, 数字1和数字2。接下来插入ab1, ab2, ac，从而形成一个完整的字典树。
+
+为了提高查询效率，可以采用以下设计：
+
+1. 压缩字典树：在处理或插入一组数据时，可以通过压缩字典树来减少节点数量，提高查询效率；
+2. 布谷鸟哈希（Cuckoo Hashing）:这是一种快速散列表技术，可以用来快速在字典树中查找数据；
+3. 位图（Bitmap）：对数据进行位图处理，可以在使用字典树查询数据时提高效率；
+4. 数据划分和分布式存储：对数据进行分布式存储，将不同部分的数据划分到不同服务器，提高查询响应速度。
+
+这些设计可以结合使用，以进一步提高查询效率。在使用中，需要根据实际情况确定最适合自己应用的设计方案。
+
+
+
+## 实现基于账户的状态树
+
+
+### 代码 commint 地址
+https://github.com/3033009572/blockchain/tree/main/other
+
+### 主观与讨论题内容
+
+以太坊对基于字典树的Merkle Patricia树做了以下改良：
+
+1. 通过使用字典树而不是哈希树来存储状态，可以降低在长路径下的访问成本，提高加密货币的性能；
+2. 在实现中使用了“按需访问”的技术来减少内存消耗。这意味着，在某些状态分支上，只有必要时才会读取或写入存储，而不是再内存中一次性存取所有数据；
+3. 在读取和写入过程中使用了处理路径压缩的优化，避免数据重复存储，提高了数据的有效性。
+
+通过这些改良，以太坊的区块链速度更快，可扩展性更高，使每个人都可以轻松使用。
+
+MPT的核心问题是如何在分布式、不可信的环境中，高效地存储和检索数据，并保证数据的完整性和安全性。MPT主要是为以太坊的存储设计而来的，目的是解决以太坊状态存储所面临的问题。
+
+这些问题包括单块区块大小的限制、难以以恒定速度处理交易、存储访问速度慢等。MPT的主要思想是利用字典树的特点，对状态的存储进行优化和压缩，从而提高以太坊的状态存储效率和性能，并带来更好的扩展性和安全性。同时，MPT也是一个重要的技术，在开发其他区块链应用程序时也可以采用其思想和技术实现存储。
 
 
 
