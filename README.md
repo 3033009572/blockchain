@@ -204,6 +204,17 @@ PoW（Proof of Work）挖矿的特点如下：
 
 
 
+## 第七课代码
+
+
+### 代码 commint 地址
+
+[第七课 · 3033009572/blockchain@49262ec (github.com)](https://github.com/3033009572/blockchain/commit/49262ec76adc0a4be9d1adcafc145cbc9fbfc0aa)
+
+### 主观与讨论题内容
+
+
+
 ## 实现 merkle 树
 
 
